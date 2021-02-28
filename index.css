@@ -1,5 +1,11 @@
 #dice-para {
     font-size: 50px;
+    border: 10px;
+    height: 30px;
+}
+
+#sum-para {
+    padding-top: 10px;
 }
 
 div {
@@ -7,7 +13,12 @@ div {
     border-color: black;
     border-style: solid;
     margin-bottom: 20px;
-    height: 200px;;
+    height: auto;
+    padding: 25px;
+}
+
+li {
+    padding-bottom: 0 10px;
 }
 
 button {
