@@ -1,0 +1,15 @@
+#dice-para {
+    font-size: 50px;
+}
+
+div {
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 20px;
+    height: 200px;;
+}
+
+button {
+    margin-bottom: 20px;
+}
